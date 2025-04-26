@@ -1,4 +1,5 @@
-Barangay Tominobo Information Management System
+iGovern: Barangay Tominobo Information Management System
+
 Overview
 The Barangay Tominobo Information Management System (IMS) is a web-based platform designed to streamline administrative processes, enhance resident profiling, and facilitate event management, document handling, and data analytics for improved barangay governance.
 
